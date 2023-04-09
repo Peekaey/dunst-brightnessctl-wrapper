@@ -16,7 +16,7 @@ args = parser.parse_args()
 # Determine the direction of the brightness adjustment
 if args.brightness_direction == 'up':
 
-    # Increases brightness by 5%
+    # Increases brightness by 10%
     subprocess.run(['brightnessctl', 'set', '+10%'])
 
     # Gets new current brightness
