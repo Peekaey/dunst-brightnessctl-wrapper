@@ -20,5 +20,5 @@ Could also integrate and bind this program to keys (such as laptop brightness in
 Example of this could be with hyprland DE and through adding the below to bind the actions to their respective keys.
 
 Example in hyprland.config file  
-`bindle=,XF86MonBrightnessUp,exec,"/usr/bin/python3 ~/.config/hypr/scripts/brightness.py up"`
-`bindle=,XF86MonBrightnessDown,exec,"/usr/bin/python3 ~/.config/hypr/scripts/brightness.py down"`
+`bindle=,XF86MonBrightnessUp,exec,/usr/bin/python3 ~/.config/hypr/scripts/brightness.py up`
+`bindle=,XF86MonBrightnessDown,exec,/usr/bin/python3 ~/.config/hypr/scripts/brightness.py down`
