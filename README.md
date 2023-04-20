@@ -1,4 +1,4 @@
-# Wrapper for dunst & brightnessctl - WIP
+# Wrapper for dunst & brightnessctl
 
 Small python program that uses brightnessctl and dunst to adjust the brightness of the display as well as provide a system notification upon increase/decrease of the brightness.
 
